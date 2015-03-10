@@ -1,0 +1,9 @@
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\bin\Debug\craiglistscrapper.exe
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\bin\Debug\craiglistscrapper.pdb
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\obj\x86\Debug\craiglistscrapper.Form1.resources
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\obj\x86\Debug\craiglistscrapper.Properties.Resources.resources
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\obj\x86\Debug\craiglistscrapper.csproj.GenerateResource.Cache
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\obj\x86\Debug\craiglistscrapper.exe
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\obj\x86\Debug\craiglistscrapper.pdb
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\bin\Debug\HtmlAgilityPack.dll
+c:\users\one\documents\visual studio 2010\Projects\craiglistscrapper\craiglistscrapper\obj\x86\Debug\craiglistscrapper.csprojResolveAssemblyReference.cache
